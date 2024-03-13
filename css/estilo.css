@@ -1,0 +1,106 @@
+
+.contenedorPrincipal{
+    background-color: cadetblue;
+    /*padding: 10px;
+    display: flex;
+    width: 900px;
+    height: 900px;
+    align-content: space-between;
+    flex-direction: row;
+    min-height: 100vh;*/
+    float:left;
+
+}
+.contenedor1{
+    background-color:  rgb(85, 79, 85);
+    margin: 10px;
+    width: 250px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    float:left;
+    
+}
+.caja1{
+    position: relative;
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.caja2{
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    height: 200px;
+    
+}
+.contenedor2{
+    background-color: rgb(85, 79, 85);
+    margin: 5px;
+    width: 400px;
+    height: 800px;
+    flex-grow: 5;
+    display: flex;
+    flex-wrap: wrap;
+    float:left;
+}
+.caja{
+    background-color: green;
+    margin: 13px;
+    width: 100px;
+    height: 150px;
+}
+.contenedor3{
+    background-color:  rgb(85, 79, 85);
+    margin: 5px;
+    width: 200px;
+    height: 800px;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: column;*/
+    float:left;
+}
+
+.c1{
+    background-color: yellow;
+    margin: 15px;
+    width: 150px;
+    height: 80px;
+}
+.c2{
+    background-color: yellow;
+    margin: 15px;
+    width: 50px;
+    height: 150px;
+}
+.c3{
+    background-color: yellow;
+    margin: 15px;
+    width: 50px;
+    height: 150px;
+}
+.c4{
+    background-color: yellow;
+    margin: 15px;
+    width: 150px;
+    height: 80px;
+}
+.c5{
+    background-color: yellow;
+    margin: 15px;
+    width: 50px;
+    height: 150px;
+}
+.c6{
+    background-color: yellow;
+    margin: 15px;
+    width: 50px;
+    height: 150px;
+}
